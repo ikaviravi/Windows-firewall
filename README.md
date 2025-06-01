@@ -22,9 +22,10 @@
 - Finish the wizard
 
 ### 3. Screenshots 
-- firewall-main-window.png: Firewall settings UI
-- new-rule-block-port23.png: Rule creation wizard
-- rule-inbound-list.png: Rule listed in Inbound Rules
-- rule-outbound-list.png: Rule listed in Outbound Rules
-- telnet-test.png: Failed connection to port 23
-- rule-deleted.png: Rule removed
+- **firewall-main-window.png**: Firewall settings UI
+- **new-rule-block-port23.png**: Rule creation wizard
+- **new-rule-allow-port22.png** : rule creation wizard
+-**rule-inbound-list.png**: Rule listed in Inbound Rules
+- **rule-outbound-list.png**: Rule listed in Outbound Rules
+- **telnet-test.png**: Failed connection to port 23
+- **rule-deleted.png**: Rule removed
